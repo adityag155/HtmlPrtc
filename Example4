@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Exall</title>
+</head>
+<body style="background-color:pink">
+<h1>Heading tag</h1>
+<u>underline tag</u><br>
+<i>italian tag</i></br>
+<b>bold tag</b></br>
+
+ <table border="1">
+<tr>
+<th>Name</th>
+<th>add</th>
+</tr>
+
+<tr>
+<td>ABC</td>
+<td>pune</td>
+</tr>
+
+<tr>
+<td>PQR</td>
+<td>PCMS</td>
+</tr>
+
+<ul type="Circle">
+<li>Java</li>
+<li>Python</li>
+<li>Testing</li>
+</ul>
+
+<ol>
+<li>Java</li>
+<li>Python</li>
+</ol>
+
+<div style="color:red">
+hello, here im using color tag
+</div>
+
+<p>here we using the span tag it can be used to highlight the spacific <span style="color:Blue">WORD</span>
+
+
+</body>
+</html>
